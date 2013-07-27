@@ -1,0 +1,16 @@
+td {
+    width: 80px;
+    height: 80px;
+}
+
+input[type="button"] {
+    height: 70px;
+    width: 70px;
+    font-size:large;
+    border:0px;
+}
+
+#clear {
+    height:40px;
+    width:100px;
+}
